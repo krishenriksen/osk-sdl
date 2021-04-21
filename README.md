@@ -35,6 +35,7 @@ d-pad controls which character is selected, and movement will highlight the char
 - B button, will add a space.
 - X button, will simulate backspace.
 - Y button, will toggle capslock.
+- R1, will toggle show password
 
 - SELECT button, will quit without outputting input string.
 - START button, will output the current input to current tty
