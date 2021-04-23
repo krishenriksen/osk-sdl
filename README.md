@@ -1,5 +1,4 @@
-Lightweight On-Screen-Keyboard based on SDL2
----
+# Lightweight On-Screen-Keyboard based on SDL2
 
 Tested on RG351P, RG351M and RG351V
 
@@ -35,7 +34,8 @@ d-pad controls which character is selected, and movement will highlight the char
 - SELECT button, will quit without outputting input string.
 - START button, will output the current input to current tty
 
-### Support the project
+Support the project
+---
 
 [![Donate](https://github.com/krishenriksen/AnberPorts/raw/master/donate.png)](https://www.paypal.me/krishenriksendk)
 [![Patreon](https://github.com/krishenriksen/AnberPorts/raw/master/patreon.png)](https://www.patreon.com/bePatron?u=54003740)
